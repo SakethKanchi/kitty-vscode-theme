@@ -2,7 +2,7 @@
     "name": "kitty-vscode-theme",
     "displayName": "Kitty-VSCode-Theme",
     "description": "VSCode theme inspired by Catppuccin",
-    "version": "0.5.0",
+    "version": "0.4.0",
     "publisher": "SakethKanchi",
     "author": {
         "name": "Saketh"
@@ -25,7 +25,7 @@
         "Dark theme",
         "Pastel"
     ],
-    "icon": "https://i.imgur.com/gUx5k7J.png",
+    "icon": "assets/icon.png",
     "contributes": {
         "themes": [
             {
