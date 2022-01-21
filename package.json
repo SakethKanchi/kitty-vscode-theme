@@ -2,7 +2,7 @@
     "name": "kitty-vscode-theme",
     "displayName": "Kitty-VSCode-Theme",
     "description": "VSCode theme inspired by Catppuccin",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "publisher": "SakethKanchi",
     "author": {
         "name": "Saketh"
