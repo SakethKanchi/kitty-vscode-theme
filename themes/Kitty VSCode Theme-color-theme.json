@@ -1845,9 +1845,9 @@
 	  }
 	],
 	"colors": {
-	  "foreground": "#161320",
+	  "foreground": "#ffff",
 	  "focusBorder": "#1a1826",
-	  "selection.background": "#302d41",
+	  "selection.background": "#161320",
 	  "scrollbar.shadow": "#575268",
 	  "activityBar.foreground": "#d9e0ee",
 	  "activityBar.background": "#161320",
@@ -2068,7 +2068,7 @@
 	  "peekViewTitle.background": "#1e1e1e",
 	  "peekViewTitleDescription.foreground": "#ccccccb3",
 	  "peekViewTitleLabel.foreground": "#ffffff",
-	  "icon.foreground": "#161320",
+	  "icon.foreground": "#d9e0ee",
 	  "checkbox.background": "#161320",
 	  "checkbox.foreground": "#d9e0ee",
 	  "checkbox.border": "#1a1826",
@@ -2087,7 +2087,7 @@
 	  "editorGroup.emptyBackground": "#161320",
 	  "panelSection.border": "#80808059",
 	  "statusBarItem.activeBackground": "#FFFFFF25",
-	  "settings.headerForeground": "#161320",
+	  "settings.headerForeground": "#d9e0ee",
 	  "settings.focusedRowBackground": "#ffffff07",
 	  "walkThrough.embeddedEditorBackground": "#00000050",
 	  "breadcrumb.activeSelectionForeground": "#d9e0ee",
@@ -2095,4 +2095,4 @@
 	  "debugExceptionWidget.background": "#1e1e2e",
 	  "debugExceptionWidget.border": "#161320"
 	}
-  }
+}
