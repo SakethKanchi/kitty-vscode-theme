@@ -25,6 +25,7 @@
         "Dark theme",
         "Pastel"
     ],
+    "icon": "https://i.imgur.com/gUx5k7J.png",
     "contributes": {
         "themes": [
             {
