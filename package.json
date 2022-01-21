@@ -1,0 +1,37 @@
+{
+    "name": "kitty-vscode-theme",
+    "displayName": "Kitty-VSCode-Theme",
+    "description": "VSCode theme inspired by Catppuccin",
+    "version": "0.0.1",
+    "publisher": "SakethKanchi",
+    "author": {
+        "name": "Saketh"
+    },
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SakethKanchi/Kitty"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Theme",
+        "Themes",
+        "Darktheme",
+        "Dark",
+        "Dark theme",
+        "Pastel"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Kitty VSCode Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kitty VSCode Theme-color-theme.json"
+            }
+        ]
+    }
+}
